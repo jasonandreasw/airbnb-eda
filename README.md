@@ -20,4 +20,6 @@ Includes pricing, room type, neighbourhood, availability, and review metrics.
 - Matplotlib
 
 ## Status
-Completed
+EDA Completed
+
+ML In Progress
