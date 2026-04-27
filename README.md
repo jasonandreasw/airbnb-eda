@@ -8,10 +8,11 @@ Source: Inside Airbnb
 Includes pricing, room type, neighbourhood, availability, and review metrics.
 
 ## Key Findings
-- Room type is the strongest influencing factors.
-- Entire home/ apartment listings are significantly more expensive.
+- Room type is one of the strongest factors influencing price.
+- Entire home/ apartment listings are significantly more expensive compared to other room types.
 - Location (neighborhood) plays a major role in price variation.
-- Numerical variables such as reviews and availability have weak relationship with price.
+- Numerical variables such as reviews and availability show weak direct relationships with price but contribute to model predictions.
+- Random Forest outperformed Linear Regression, indicating the presence of non-linear patterns in the data.
 
 ## Tools
 - Python
@@ -22,4 +23,4 @@ Includes pricing, room type, neighbourhood, availability, and review metrics.
 ## Status
 EDA Completed
 
-ML In Progress
+ML Completed
